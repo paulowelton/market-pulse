@@ -1,13 +1,16 @@
 # Market Pulse
 
-📊 Plataforma para análise e visualização de dados de mercado em tempo real.
+📊 Platform for analyzing and visualizing market data in real time.
 
 <img src="frontend/public/logo.png" alt="Logo">
 
 O MarketPulse é uma aplicação web que coleta, processa e exibe dados de mercado
 para apoiar tomada de decisão.
 
-## Tecnologias
+MarketPulse is a web application that collects, proccesses and shows market data 
+to support decision-making.
+
+## Technologies
 
 ### Frontend
 - HTML
@@ -21,13 +24,13 @@ para apoiar tomada de decisão.
 - Flask
 - Prophet
 
-### Banco de dados
+### Database
 - Supabase (Em definição)
 
-### Outros
+### Others
 - Git & GitHub
 
-## Como rodar o projeto
+## How to ru
 
 ### Backend
 ```bash
@@ -45,12 +48,3 @@ npm install
 ng serve
 ```
 
-## Objetivo
-Criar uma aplicação escalável para monitoramento e análise de dados de mercado,
-utilizando arquitetura frontend + backend desacoplada.
-
-## Time
-- Paulo — Backend / Arquitetura
-- Matheus — Em definição
-- Gabriel - Em definição
-- Gabriel — Em definição
